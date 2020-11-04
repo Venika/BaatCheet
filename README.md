@@ -3,7 +3,7 @@ Baatcheet in Hindi means having a conversation. I built this realtime chat appli
 
 # Demo
 To try out the app, visit https://baatcheet-chat-app.herokuapp.com/     
-Open it in multiple tabs and join chatrooms as different users and send messages back and forth. 
+Open it in multiple browser tabs and join chat rooms as different users to send messages back and forth. 
 
 # Installation
 To run the app for yourself, clone the directory. After that, run the following commands in terminal-    
@@ -16,5 +16,6 @@ To see the app running, go to localhost:3000
 ![Image of the chatroom](images/SS1.png)   
 
 # Helpful links
-https://socket.io/get-started/chat/     
-https://devcenter.heroku.com/articles/getting-started-with-nodejs#set-up    
+* https://socket.io/get-started/chat/     
+* https://devcenter.heroku.com/articles/getting-started-with-nodejs#set-up      
+* https://coolors.co/
