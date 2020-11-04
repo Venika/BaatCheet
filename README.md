@@ -12,8 +12,8 @@ npm run dev
 To see the app running, go to localhost:3000    
 
 # Screenshots
-![Image of the landing page](images/SS2.png)     
-![Image of the chatroom](images/SS1.png)   
+<img src="images/SS2.png" width="400" />     
+<img src="images/SS1.png" width="400" />       
 
 # Helpful links
 * https://socket.io/get-started/chat/     
