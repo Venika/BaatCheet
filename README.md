@@ -1,5 +1,5 @@
 # BaatCheet
-Baatcheet in Hindi means having a conversation. I built this realtime chat application Node.js, Express and Socket.io. It has a CSS gradient animated background. It has different conversation rooms with different topics that people can join. It supports multiple users and people can leave a chat room and join another one.
+The word Baatcheet in Hindi language means having a conversation. I built this realtime chat application Node.js, Express and Socket.io. It has different conversation rooms with different topics that users can join. It supports multiple users and allows them to leave a chat room and join another one.
 
 # Demo
 To try out the app, visit https://baatcheet-chat-app.herokuapp.com/     
@@ -14,6 +14,9 @@ To see the app running, go to localhost:3000
 # Screenshots
 <img src="images/SS2.png" width="400" />     
 <img src="images/SS1.png" width="400" />       
+
+# Future updates
+I would like to add user authorization and maybe some sort of database to the application. 
 
 # Helpful links
 * https://socket.io/get-started/chat/     
