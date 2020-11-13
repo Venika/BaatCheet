@@ -7,8 +7,10 @@ Open it in multiple browser tabs and join chat rooms as different users to send 
 
 # Installation
 To run the app for yourself, clone the directory. After that, run the following commands in terminal-    
+```
 npm install    
-npm run dev     
+npm run dev 
+```
 To see the app running, go to localhost:3000    
 
 # Screenshots
